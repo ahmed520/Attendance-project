@@ -16,4 +16,4 @@ Steps to use:
 6-now everything is ready to run ,just run the Open code and then connect attending stundets phone to the smae router as your pc ,the application will run in the background and it will create an output file of studnets that their mac addresses are detected on the local network until the program is 
 terminated by the operator to stop taking attendance 
 
-Note that the user GUI is created usinbg TCKinter and CustomTKinter for the server (pc) side while the users (students) will run the mobile app coded in dart in a seperate project 
+Note that the user GUI is created usinbg TKinter and CustomTKinter for the server (pc) side while the users (students) will run the mobile app coded in dart in a seperate project 
